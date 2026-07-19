@@ -1,11 +1,7 @@
 # CNSLS - 云原生安全学习软件
 
-&lt;div align="center"&gt;
-
 
 **一款面向云原生安全新人的学习工具集**
-
-&lt;/div&gt;
 
 ---
 
@@ -54,3 +50,4 @@ tar xzvf CNSLS_Linux_v0.4.tar.gz
 ./CNSLS
 ```
 ## 联系：1703413136/1703413136qq.com [第一次做，可以指点指点]
+# CNSLS v0.4 - 2026-7-19
