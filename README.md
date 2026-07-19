@@ -2,9 +2,6 @@
 
 &lt;div align="center"&gt;
 
-![版本](https://img.shields.io/badge/版本-v0.4-blue)
-![平台](https://img.shields.io/badge/平台-Linux-green)
-![许可证](https://img.shields.io/badge/许可证-MIT-yellow)
 
 **一款面向云原生安全新人的学习工具集**
 
