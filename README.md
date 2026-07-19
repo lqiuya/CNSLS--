@@ -8,7 +8,7 @@
 ## 📖 简介
 
 CNSLS（Cloud Native Security Lab Suite）是一款专为云原生安全学习者设计的工具软件，整合多个安全检测与实验辅助工具，帮助学习者快速上手容器安全、K8s 安全等云原生安全领域。
-建议：gitee搜索：wuyudeliqiu-云原生-安全学习资料/实验报告/软件（链接：https://gitee.com/wuyudeliqiu/cnsls）  国内访问速度快，并且配好了全套学习所需，教程，软件，使用.......
+建议：gitee搜索：wuyudeliqiu-云原生-安全学习资料/实验报告/软件（链接：https://gitee.com/wuyudeliqiu/）  国内访问速度快，并且配好了全套学习所需，教程，软件，使用.......
 
 &gt; ⚠️ **仅供学习使用，禁止用于未授权测试**
 
