@@ -1,4 +1,4 @@
-# CNSLS - 云原生安全学习软件
+# CNSLS（Cloud-Native-Security-Learning-Software） - 云原生安全学习软件
 
 
 **一款面向云原生安全新人的学习工具集**
